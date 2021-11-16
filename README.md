@@ -14,3 +14,4 @@
 
 <img src="sieci-przemyslowe.jpg" alt="sieci-przemyslowe.jpg" width="350"/>
 
+ <em>Uzupełnione w ramach czwartego zestawu zadań z przedmiotu **Narzędzia informatyczne** dnia 16 listopada 2021 roku.</em>.
