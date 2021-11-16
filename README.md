@@ -10,6 +10,7 @@
  
  <img src="pslogo.png" alt="pslogo.png" width="200"/>
  
- 2) Sieci komputerowy
+ 2) Sieci komputerowe
 
-<img src="sieciprzemyslowe.jpg" alt="sieciprzemyslowe.jpg" width="200"/>
+<img src="sieci-przemyslowe.jpg" alt="sieci-przemyslowe.jpg" width="350"/>
+
