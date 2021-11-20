@@ -1,4 +1,5 @@
 # Opis profilu:
+[**STRONA INTERNETOWA**](https://klonotoros.github.io/)
 
 **Imię i nazwisko**: Krzysztof Czechowicz 
 
