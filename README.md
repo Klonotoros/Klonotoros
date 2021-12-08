@@ -1,3 +1,5 @@
+# Zadanie z forkami:
+[**LINKFORK](https://github.com/Klonotoros/MAIAN)
 # Opis profilu:
 [**STRONA INTERNETOWA**](https://klonotoros.github.io/)
 
